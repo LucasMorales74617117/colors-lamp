@@ -6,3 +6,4 @@ db.php
 Thumbs.db
 .vscode/
 .idea/
+node_modules/
